@@ -9,6 +9,7 @@ However, it's truly difficult for a mid age people who works in China.
 * Don't have enough basic knowledge about computer science
 
 ## What I will do here
+* Overcome all difficulties above, and become a progammer in the future
 * To record some interesting scripts or tricky pracitices
 * To save some learning notes here
 * To encourage myself to persuit my dream
